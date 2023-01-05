@@ -7,6 +7,7 @@ _website design project_
 ## About
 
 This project is for educational porpuses only. 
+Site published at: https://github.com/valerij79/coming-soon.git
 
 
 

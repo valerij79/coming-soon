@@ -3,14 +3,15 @@
     padding-bottom: 60px;
 }
 
-.container > .row {
-    width: 1000px;
-    margin-left: calc(50% - 500px);
-}
-
 .container > .short-row {
     width: 600px;
     margin-left: calc(50% - 300px);
+}
+
+.container > .row {
+    display: inline-block;
+    width: 1000px;
+    margin-left: calc(50% - 500px);
 }
 
 .container > .columns {
@@ -23,7 +24,7 @@
     gap: 20px;
     width: 50%;
 }
-.container > .row > .column {
+.container > .columns > .right-column {
     width: 40%;
 }
 
@@ -33,7 +34,6 @@
         margin-left: calc(50% - 400px);
     }
 }
-
 
 @media (max-width: 900px) {
     .container > .row {

@@ -6,6 +6,7 @@
 /* components */
 @import '../components/clock.css';
 @import '../components/mouse.css';
+@import '../components/progress-bar.css';
 /* CUSTOM STYLE BELOW THIS COMPONENT LINE */
 
 /* hero */
@@ -49,10 +50,6 @@ footer.container {
     padding-top: 0;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 3e31ad60c9679e058284657e0a1388392c34580e
 .row.socials {
     display: flex;
     justify-content: center;
@@ -70,14 +67,9 @@ footer.container {
     color: #fff;
     text-decoration: none;
     border-radius: 50%;
-<<<<<<< HEAD
-    transition: all 0.3s;
-}
-=======
     transition: all 0,3s;
 }
 
->>>>>>> 3e31ad60c9679e058284657e0a1388392c34580e
 .socials > a:hover {
     background-color: #fff;
     color: #03a9f3;

@@ -1,0 +1,44 @@
+.btn {
+    padding: 0.5em 0.7em;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    line-height: 1em;
+    color: #fff;
+    background-color: #ea1e63;
+    border: none;
+    border-radius: 0.2em;
+    cursor: pointer;
+    user-select: none;
+}
+
+.btn:hover {
+    box-shadow: 0 4px 8px #0002;
+}
+.btn-green {
+    background-color: green;
+}
+
+.btn-yellow {
+    background-color: yellow;
+    color: #000;
+}
+
+.btn.btn-small {
+    font-size: 15px;
+}
+
+.btn.btn-big {
+    font-size: 30px;
+}
+
+.btn.btn-rect {
+    border-radius: 0;
+}
+.btn.btn-cirkle {
+    height: 2em;
+    width: 2em;
+    padding: 0;
+    line-height: 2em;
+    border-radius: 50%;
+}

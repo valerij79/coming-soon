@@ -140,6 +140,6 @@ footer > .row {
     background-color: black;
     position: absolute;
     top: 1px;
-    border-left-width: 25px;
+    border-left-width: -25px;
 }
 

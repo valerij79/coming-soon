@@ -31,3 +31,9 @@ p > a {
 p > a:hover {
     text-decoration: underline;
 }
+.copyright {
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    color: #FDFEFF;
+}

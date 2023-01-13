@@ -4,6 +4,7 @@
 /* 3rd-party*/
 @import '../3rd-party/font-awesome.min.css';
 /* components */
+@import '../components/form.css';
 @import '../components/clock.css';
 @import '../components/mouse.css';
 @import '../components/progress-bar.css';
